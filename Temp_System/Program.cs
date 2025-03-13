@@ -5,6 +5,8 @@ namespace Temp_System_Delegate
     internal class Program
     {
         public enum Choices { setTemp = 1, alarmValue = 2, exist = 3 };
+        static bool alarmValueIsChanged = false;
+        static int alarmValue = 0;
         public static Choices ReadChoice()
         {
 
@@ -32,9 +34,20 @@ namespace Temp_System_Delegate
 
         public static void ProcessingChoice(Choices choice)
         {
+
+
             Sensor sensor = new Sensor();
             Display display = new Display();
-            Alarm alarm = new Alarm(20);
+            Alarm alarm;
+            if (alarmValueIsChanged)
+            {
+                alarm = new Alarm(alarmValue);
+            }
+            else
+            {
+                alarm = new Alarm(20);
+            }
+
             sensor.SensorChanged += display.ShowTemperature;// add to Invocation list 
             sensor.SensorChanged += alarm.FireAlarm;
 
@@ -46,8 +59,10 @@ namespace Temp_System_Delegate
                     GoBackToMainMenu();
                     break;
                 case Choices.alarmValue:
-                    Console.WriteLine("\tEnter a new alarm value, by attention default value is (20):");
-                    alarm.ChangeAlarmValue(int.Parse(Console.ReadLine()));
+                    Console.WriteLine($"\tEnter a new alarm value, by attention default value is {alarmValue}:");
+                    alarmValue = int.Parse(Console.ReadLine());
+                    alarm.ChangeAlarmValue(alarmValue);
+                    alarmValueIsChanged = true;
                     GoBackToMainMenu();
                     break;
                 case Choices.exist:

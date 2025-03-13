@@ -5,3 +5,10 @@ C:\Users\Ruaa\source\repos\Temp_System_Delegate\obj\Debug\Temp_System_Delegate.c
 C:\Users\Ruaa\source\repos\Temp_System_Delegate\obj\Debug\Temp_System_Delegate.csproj.CoreCompileInputs.cache
 C:\Users\Ruaa\source\repos\Temp_System_Delegate\obj\Debug\Temp_System_Delegate.exe
 C:\Users\Ruaa\source\repos\Temp_System_Delegate\obj\Debug\Temp_System_Delegate.pdb
+C:\Users\Ruaa\source\repos\Temp_System_Delegate\Temp_System\bin\Debug\Temp_System_Delegate.exe.config
+C:\Users\Ruaa\source\repos\Temp_System_Delegate\Temp_System\bin\Debug\Temp_System_Delegate.exe
+C:\Users\Ruaa\source\repos\Temp_System_Delegate\Temp_System\bin\Debug\Temp_System_Delegate.pdb
+C:\Users\Ruaa\source\repos\Temp_System_Delegate\Temp_System\obj\Debug\Temp_System_Delegate.csproj.AssemblyReference.cache
+C:\Users\Ruaa\source\repos\Temp_System_Delegate\Temp_System\obj\Debug\Temp_System_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Ruaa\source\repos\Temp_System_Delegate\Temp_System\obj\Debug\Temp_System_Delegate.exe
+C:\Users\Ruaa\source\repos\Temp_System_Delegate\Temp_System\obj\Debug\Temp_System_Delegate.pdb
