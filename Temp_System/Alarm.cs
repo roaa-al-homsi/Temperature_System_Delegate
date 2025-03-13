@@ -10,11 +10,15 @@ namespace Temp_System_Delegate
         {
             this._CurrentAlarmValue = alarmValue;
         }
+        public void Subscribe(Broker broker)
+        {
+            broker.Subscribe("TemperatureChanged", FireAlarm);
+        }
         public void ChangeAlarmValue(int newAlarmValue)
         {
             this._CurrentAlarmValue = newAlarmValue;
         }
-        public void FireAlarm(object obj, TempArgs tempArgs)
+        public void FireAlarm(TempArgs tempArgs)
         {
             if (tempArgs.tempValue > this._CurrentAlarmValue)
             {

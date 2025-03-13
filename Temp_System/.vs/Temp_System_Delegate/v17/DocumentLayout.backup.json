@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|c:\\users\\ruaa\\source\\repos\\temp_system_delegate\\temp_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|solutionrelative:sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|c:\\users\\ruaa\\source\\repos\\temp_system_delegate\\temp_system\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|solutionrelative:alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|c:\\users\\ruaa\\source\\repos\\temp_system_delegate\\temp_system\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|solutionrelative:display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\tempargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|solutionrelative:tempargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|c:\\users\\ruaa\\source\\repos\\temp_system_delegate\\temp_system\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1B369E-1AD3-43C6-9590-B779BD5C25C4}|Temp_System_Delegate.csproj|solutionrelative:broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,50 +30,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 270,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Display.cs",
-              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Display.cs",
-              "RelativeDocumentMoniker": "Display.cs",
-              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Display.cs",
-              "RelativeToolTip": "Display.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:39:43.128Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Alarm.cs",
-              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Alarm.cs",
-              "RelativeDocumentMoniker": "Alarm.cs",
-              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Alarm.cs",
-              "RelativeToolTip": "Alarm.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswBYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Program.cs \u2B24",
+              "RelativeToolTip": "Program.cs \u2B24",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:43:52.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TempArgs.cs",
-              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\TempArgs.cs",
-              "RelativeDocumentMoniker": "TempArgs.cs",
-              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\TempArgs.cs",
-              "RelativeToolTip": "TempArgs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:31:45.315Z",
+              "WhenOpened": "2025-03-13T13:58:38.275Z",
               "EditorCaption": ""
             },
             {
@@ -84,22 +57,48 @@
               "RelativeDocumentMoniker": "Sensor.cs",
               "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Sensor.cs",
               "RelativeToolTip": "Sensor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:16:07.318Z",
+              "WhenOpened": "2025-03-13T13:55:43.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswB4AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Alarm.cs",
+              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Alarm.cs",
+              "RelativeDocumentMoniker": "Alarm.cs",
+              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Alarm.cs",
+              "RelativeToolTip": "Alarm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T12:51:09.258Z",
+              "WhenOpened": "2025-03-13T13:55:02.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Display.cs",
+              "RelativeDocumentMoniker": "Display.cs",
+              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Display.cs",
+              "RelativeToolTip": "Display.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:52:53.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Broker.cs",
+              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Broker.cs",
+              "RelativeDocumentMoniker": "Broker.cs",
+              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\Temp_System_Delegate\\Temp_System\\Broker.cs",
+              "RelativeToolTip": "Broker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:44:31.087Z",
               "EditorCaption": ""
             }
           ]
